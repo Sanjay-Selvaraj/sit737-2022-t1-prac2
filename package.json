@@ -1,0 +1,17 @@
+{
+ "name": "web-server",
+ "version": "0.1.0",
+ "description": "Web server for SIT 737",
+ "dependencies": {
+  "body-parser": "*",
+  "express": "^4.17.3",
+  "log": "1.4.0",
+  "log4js": "^6.4.3",
+  "nodemon": "^2.0.15"
+ },
+ "author": "Alessio Bonti",
+ "license": "MIT",
+ "scripts": {
+  "start": "node server.js"
+ }
+}

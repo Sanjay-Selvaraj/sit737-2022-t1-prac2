@@ -1,0 +1,37 @@
+[2022-03-21T15:45:52.827] [INFO] logs - Get requested by undefined
+[2022-03-21T15:45:53.963] [INFO] logs - Get requested by undefined
+[2022-03-21T15:47:26.262] [INFO] logs - Get requested by Sanjay
+[2022-03-21T15:47:59.552] [INFO] logs - Post requested, here is the data :[object Object]
+[2022-03-21T15:58:10.385] [INFO] logs - Get requested by undefined
+[2022-03-21T15:58:16.759] [ERROR] logs - Invalid Operator
+[2022-03-21T15:58:16.760] [INFO] logs - Num1: undefinedNum2:undefinedOperator:undefined
+[2022-03-21T15:58:56.511] [ERROR] logs - Invalid Operator
+[2022-03-21T15:58:56.511] [INFO] logs - Num1: 10Num2:5Operator: 
+[2022-03-21T16:03:00.264] [ERROR] logs - Invalid Operator
+[2022-03-21T16:03:00.267] [INFO] logs - Num1: 10Num2:5Operator: 
+[2022-03-21T16:03:03.214] [ERROR] logs - Invalid Operator
+[2022-03-21T16:03:03.214] [INFO] logs - Num1: 10Num2:5Operator: 
+[2022-03-21T16:03:05.741] [ERROR] logs - Invalid Operator
+[2022-03-21T16:03:05.742] [INFO] logs - Num1: 10Num2:5Operator: 
+[2022-03-21T16:04:48.942] [ERROR] logs - Invalid Operator
+[2022-03-21T16:04:48.942] [INFO] logs - Num1: 10Num2:5Operator:' '
+[2022-03-21T16:05:50.157] [ERROR] logs - Invalid Operator
+[2022-03-21T16:05:50.157] [INFO] logs - Num1: 10Num2:5Operator:' '
+[2022-03-21T16:05:56.965] [ERROR] logs - Invalid Operator
+[2022-03-21T16:05:56.965] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:08:39.200] [ERROR] logs - Invalid Operator
+[2022-03-21T16:08:39.200] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:09:31.972] [ERROR] logs - Invalid Operator
+[2022-03-21T16:09:31.975] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:09:34.167] [ERROR] logs - Invalid Operator
+[2022-03-21T16:09:34.167] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:09:39.590] [ERROR] logs - Invalid Operator
+[2022-03-21T16:09:39.590] [INFO] logs - Num1: 10Num2:5Operator: 
+[2022-03-21T16:12:09.061] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:14:26.136] [INFO] logs - Num1: 10Num2:5Operator:plus
+[2022-03-21T16:14:35.077] [ERROR] logs - Invalid Operator
+[2022-03-21T16:14:35.077] [INFO] logs - Num1: 10Num2:5Operator:minus
+[2022-03-21T16:15:01.697] [ERROR] logs - Invalid Operator
+[2022-03-21T16:15:01.698] [INFO] logs - Num1: 10Num2:5Operator:mul
+[2022-03-21T16:15:04.658] [ERROR] logs - Invalid Operator
+[2022-03-21T16:15:04.658] [INFO] logs - Num1: 10Num2:5Operator:mul
